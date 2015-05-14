@@ -40,9 +40,9 @@ function changeColor(){
 }
 
 function continuousChange(){
-	for(var i = 0; i < 200; i++){
-		window.setTimeout(changeColor,250);
-	}
+	
+		window.setInterval(changeColor,250);
+	
 }
-for(var i = 0; i < 2000; i++)
+
 	continuousChange();
