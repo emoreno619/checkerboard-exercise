@@ -1,4 +1,4 @@
-[Link to this app in action](http://emoreno619.github.io/checkerboard-exercise/)
+[Link to my completed version of this app in action](http://emoreno619.github.io/checkerboard-exercise/)
 
 #DOM Manipulation Exercise
 
