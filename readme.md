@@ -1,3 +1,5 @@
+[Link to this app in action](http://emoreno619.github.io/checkerboard-exercise/)
+
 #DOM Manipulation Exercise
 
 As always, fork and clone this repo.  Submit the link to your fork when you're done.
